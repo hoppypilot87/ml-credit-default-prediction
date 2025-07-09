@@ -1,9 +1,36 @@
 # 🧠 Credit Default Prediction – ML Classifier Project
 
+
+[![View in NBViewer](https://img.shields.io/badge/View%20Notebook-NBViewer-blue)](https://nbviewer.org/github/hoppypilot87/ml-credit-default-prediction/blob/main/notebooks/01_data_exploration.ipynb)
+[![Last Commit](https://img.shields.io/github/last-commit/hoppypilot87/ml-credit-default-prediction)](https://github.com/hoppypilot87/ml-credit-default-prediction)
+[![Stars](https://img.shields.io/github/stars/hoppypilot87/ml-credit-default-prediction?style=social)](https://github.com/hoppypilot87/ml-credit-default-prediction)
+
+
 This project explores the use of logistic regression and other models to predict
 whether a credit client is likely to default. It focuses on handling class
 imbalance, model evaluation, and showcasing best practices for preprocessing and
 testing.
+
+---
+
+## 🖼️ Project Preview
+
+📊 Heatmap of Top Correlated Features
+![Heatmap](figures/heatmap_correlation.jpg)
+
+🧮 Confusion Matrix – Logistic Regression (Vanilla)
+![Vanilla Logistic Confusion](figures/vanilla_logistic_confusion_report.jpg)
+
+⚖️ Confusion Matrix – Weighted Logistic Regression
+![Weighted Logistic Regression](figures/logistic_balanced_report.jpg)
+
+🔁 Confusion Matrix – SMOTE + Logistic Regression
+![SMOTE Logistic Confusion](figures/smote_logistic_confusion.jpg)
+
+🌳 Confusion Matrix – Random Forest
+![Random Forest Confusion](figures/random_forest_report.jpg)
+
+---
 
 ## 🔍 Project Highlights
 
@@ -53,3 +80,5 @@ testing.
 
 ```bash
 pip install -r requirements.txt
+
+
