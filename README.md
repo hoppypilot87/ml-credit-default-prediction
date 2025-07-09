@@ -16,19 +16,19 @@ testing.
 ## 🖼️ Project Preview
 
 📊 Heatmap of Top Correlated Features
-<img src="figures/heatmap_correlation.jpeg" alt="Heatmap of top correlated features" width="600"/>
+<img src="figures/heatmap_correlation.jpg" alt="Heatmap of top correlated features" width="600"/>
 
 🧮 Confusion Matrix – Logistic Regression (Vanilla)
-<img src="figures/vanilla_logistic_confusion_report.jpeg" alt="Vanilla Logistic Regression – Confusion Matrix & Report" width="600"/>
+<img src="figures/vanilla_logistic_confusion_report.jpg" alt="Vanilla Logistic Regression – Confusion Matrix & Report" width="600"/>
 
 ⚖️ Confusion Matrix – Weighted Logistic Regression
-<img src="figures/logistic_balanced_report.jpeg" alt="Logistic Regression Balanced – Confusion Matrix & Report" width="600"/>
+<img src="figures/logistic_balanced_report.jpg" alt="Logistic Regression Balanced – Confusion Matrix & Report" width="600"/>
 
 🔁 Confusion Matrix – SMOTE + Logistic Regression
-<img src="figures/smote_logistic_confusion.jpeg" alt="SMOTE + Logistic Regression – Confusion Matrix & Scores" width="600"/>
+<img src="figures/smote_logistic_confusion.jpg" alt="SMOTE + Logistic Regression – Confusion Matrix & Scores" width="600"/>
 
 🌳 Confusion Matrix – Random Forest
-<img src="figures/random_forest_report.jpeg" alt="Random Forest – Confusion Matrix & Report" width="600"/>
+<img src="figures/random_forest_report.jpg" alt="Random Forest – Confusion Matrix & Report" width="600"/>
 
 ---
 
